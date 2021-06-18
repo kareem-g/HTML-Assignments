@@ -1,10 +1,14 @@
 # HTML-Assignments
 
 حل تكليفات كورس HTML
+******************
 لينك الكورس  : 
 
 https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji
+******************
+رابط التكليفات :
 
+https://elzero.org/category/assignments/html-assignments/
 -----------------------
 
 طبعا حمل الملفات دي عشان تقدر تنسخ الحل او غيره .. بالتوفيق ان شاء الله 
